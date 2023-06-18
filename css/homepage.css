@@ -1,0 +1,800 @@
+/* screen - homepage */
+
+.homepage {
+  align-items: flex-start;
+  background-color: var(--ceramic);
+  border: 1px none;
+  display: flex;
+  gap: 154px;
+  height: 2257px;
+  overflow: hidden;
+  padding: 18px 0;
+  width: 1440px;
+}
+
+.homepage .overlap-group-container {
+  height: 2203px;
+  margin-left: 65px;
+  position: relative;
+  width: 1172px;
+}
+
+.homepage .overlap-group6 {
+  height: 1628px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1172px;
+}
+
+.homepage .mask-group {
+  display: block;
+  height: 424px;
+  left: 786px;
+  opacity: 0;
+  position: absolute;
+  top: 111px;
+  width: 346px;
+}
+
+.homepage .mask-group.animate-enter {
+  animation: animate-enter-frames 0.40s ease-in 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes animate-enter-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.homepage .overlap-group2 {
+  height: 392px;
+  left: 0;
+  position: absolute;
+  top: 51px;
+  width: 767px;
+}
+
+.homepage .place {
+  color: #103a99;
+  left: -118px;
+  opacity: 0;
+  top: 118px;
+  width: 312px;
+}
+
+.homepage .place.animate-enter1 {
+  animation: animate-enter1-frames 0.40s ease-in 0.00s 1 normal forwards;
+  opacity: 0;
+}
+
+@keyframes animate-enter1-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.homepage .group-21 {
+  height: 322px;
+  left: 178px;
+  opacity: 0;
+  position: absolute;
+  top: 70px;
+  width: 589px;
+}
+
+.homepage .group-21.animate-enter3 {
+  animation: animate-enter3-frames 0.40s ease-in 0.00s 1 normal forwards;
+  opacity: 0;
+}
+
+@keyframes animate-enter3-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.homepage .overlap-group1 {
+  height: 322px;
+  position: relative;
+}
+
+.homepage .icon-instagram {
+  height: 90px;
+  left: 275px;
+  position: absolute;
+  top: 225px;
+  width: 90px;
+}
+
+.homepage .mask-group-1 {
+  height: 322px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 589px;
+}
+
+.homepage .top-text {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 44px;
+  left: 23px;
+  min-height: 195px;
+  position: absolute;
+  top: 24px;
+  width: 514px;
+}
+
+.homepage .hello-im-luke-a-d {
+  color: var(--gallery);
+  font-family: var(--font-family-athelas-bold);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 38px;
+  min-height: 106px;
+  width: 444px;
+}
+
+.homepage .with-the-rapid-advan {
+  color: var(--white);
+  font-family: var(--font-family-satoshi-regular);
+  font-size: var(--font-size-xxs);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-left: 1px;
+  min-height: 45px;
+  width: 509px;
+}
+
+.homepage .group-2 {
+  align-items: center;
+  display: flex;
+  height: 40px;
+  left: 7px;
+  min-width: 261px;
+  position: absolute;
+  top: 258px;
+}
+
+.homepage .overlap-group-1 {
+  height: 31px;
+  margin-top: 1.25px;
+  position: relative;
+  width: 170px;
+}
+
+.homepage .rectangle-8 {
+  background-color: var(--gallery);
+  border-radius: 30px;
+  height: 31px;
+  left: 16px;
+  width: 140px;
+}
+
+.homepage .contact-me {
+  color: var(--tundora);
+  font-family: var(--font-family-satoshi-bold);
+  font-size: var(--font-size-xs);
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: 170px;
+}
+
+.homepage .icon-instagram-1 {
+  height: 38px;
+  margin-left: 7px;
+  width: 38px;
+}
+
+.homepage .icon-linkedin {
+  height: 40px;
+  margin-left: 6px;
+  width: 40px;
+}
+
+.homepage .overlap-group4 {
+  height: 1048px;
+  left: 0;
+  position: absolute;
+  top: 406px;
+  width: 1172px;
+}
+
+.homepage .projects {
+  color: var(--mariner);
+  font-family: var(--font-family-satoshi-medium);
+  font-size: 64px;
+  font-weight: 500;
+  left: -174px;
+  letter-spacing: 0;
+  line-height: normal;
+  opacity: 0;
+  position: absolute;
+  text-align: center;
+  top: 174px;
+  transform: rotate(-90.00deg);
+  white-space: nowrap;
+  width: 425px;
+}
+
+.homepage .projects.animate-enter2 {
+  animation: animate-enter2-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+  opacity: 0;
+}
+
+@keyframes animate-enter2-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.homepage .group-16 {
+  cursor: pointer;
+  height: 545px;
+  left: 595px;
+  opacity: 0;
+  position: absolute;
+  top: 200px;
+  transform: translate(0, 25px);
+  transition: all 0.2s ease;
+  width: 577px;
+}
+
+.homepage .group-16.animate-enter4 {
+  animation: animate-enter4-frames 1.20s ease-in 0.40s 1 normal forwards;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter4-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.homepage .group-16:hover {
+  transform: scale(1.1);
+}
+
+.homepage .group-24 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  min-width: 577px;
+  transition: all 0.3s ease;
+}
+
+.homepage .group-24:hover {
+  transform: translate(0, -5px);
+}
+
+.homepage .overlap-group1-1 {
+  height: 545px;
+  position: relative;
+  width: 577px;
+}
+
+.homepage .rectangle-3 {
+  background-color: #292828;
+  border-radius: 25px;
+  height: 545px;
+  left: 70px;
+  width: 467px;
+}
+
+.homepage .iphone-3-hero-shot-1 {
+  height: 432px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 73px;
+  width: 577px;
+}
+
+.homepage .overlap-group-2 {
+  height: 74px;
+  left: 93px;
+  position: absolute;
+  top: 15px;
+  width: 195px;
+}
+
+.homepage .circulate {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 195px;
+}
+
+.homepage .uxui-app-design {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 35px;
+  width: 195px;
+}
+
+.homepage .group-15 {
+  height: 425px;
+  left: 177px;
+  opacity: 0;
+  position: absolute;
+  top: 108px;
+  transform: translate(0, 25px);
+  width: 468px;
+}
+
+.homepage .group-15.animate-enter5 {
+  animation: animate-enter5-frames 1.20s ease-in-out 0.40s 1 normal forwards;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter5-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.homepage .group-23 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  min-width: 468px;
+  transition: all 0.3s ease;
+}
+
+.homepage .group-23:hover {
+  transform: translate(0, -5px);
+}
+
+.homepage .group-container {
+  height: 425px;
+  position: relative;
+  width: 468px;
+}
+
+.homepage .mask-group-2 {
+  cursor: pointer;
+  height: 425px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 468px;
+}
+
+.homepage .overlap-group-3 {
+  height: 74px;
+  left: 20px;
+  position: absolute;
+  top: 14px;
+  width: 195px;
+}
+
+.homepage .share-economy {
+  color: var(--tundora);
+  font-family: var(--font-family-satoshi-regular);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 195px;
+}
+
+.homepage .x-design {
+  color: var(--chicago);
+  font-family: var(--font-family-satoshi-regular);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 35px;
+  width: 195px;
+}
+
+.homepage .group-18 {
+  cursor: pointer;
+  height: 464px;
+  left: 177px;
+  opacity: 0;
+  position: absolute;
+  top: 584px;
+  transform: translate(0, 25px);
+  width: 468px;
+}
+
+.homepage .group-18.animate-enter8 {
+  animation: animate-enter8-frames 1.20s ease-in 0.60s 1 normal forwards;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter8-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.homepage .group-25 {
+  align-items: flex-start;
+  background-image: url(../img/mask-group-6@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  display: flex;
+  height: 464px;
+  min-width: 468px;
+  padding: 14px 21px;
+  transition: all 0.2s ease;
+}
+
+.homepage .group-25:hover {
+  transform: translate(0, -5px);
+}
+
+.homepage .overlap-group {
+  height: 74px;
+  position: relative;
+  width: 195px;
+}
+
+.homepage .ash-barty-content {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 195px;
+}
+
+.homepage .motion-graphics-editing {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 35px;
+  width: 195px;
+}
+
+.homepage .ln-creative-2 {
+  height: 102px;
+  left: 604px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 102px;
+}
+
+.homepage .group-17 {
+  cursor: pointer;
+  height: 424px;
+  left: 665px;
+  opacity: 0;
+  position: absolute;
+  top: 1204px;
+  transform: translate(0, 25px);
+  width: 467px;
+}
+
+.homepage .group-17.animate-enter9 {
+  animation: animate-enter9-frames 1.20s ease-in 0.60s 1 normal forwards;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter9-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.homepage .group-26 {
+  align-items: flex-start;
+  background-image: url(../img/mask-group-7@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  display: flex;
+  height: 424px;
+  min-width: 467px;
+  padding: 17px 24px;
+  transition: all 0.2s ease;
+}
+
+.homepage .group-26:hover {
+  transform: translate(0, -5px);
+}
+
+.homepage .sea-bites {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 195px;
+}
+
+.homepage .ux-design-branding {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 35px;
+  width: 195px;
+}
+
+.homepage .group-container-1 {
+  height: 696px;
+  left: 0;
+  position: absolute;
+  top: 1507px;
+  width: 1132px;
+}
+
+.homepage .overlap-group3 {
+  height: 522px;
+  left: 0;
+  position: absolute;
+  top: 174px;
+  width: 1132px;
+}
+
+.homepage .place-1 {
+  color: #3b83e5;
+  left: -112px;
+  top: 334px;
+  width: 300px;
+}
+
+.homepage .mask-group-3 {
+  height: 232px;
+  left: 179px;
+  position: absolute;
+  top: 264px;
+  width: 948px;
+}
+
+.homepage .bottom-text {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 202px;
+  min-height: 133px;
+  position: absolute;
+  top: 286px;
+  width: 431px;
+}
+
+.homepage .bottom-text1 {
+  align-items: center;
+  display: flex;
+  height: 40px;
+  left: -18px;
+  min-width: 261px;
+  position: absolute;
+  top: 157px;
+}
+
+
+.homepage .want-to-work-together {
+  color: var(--white);
+  font-family: var(--font-family-athelas-regular);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 34px;
+  white-space: nowrap;
+}
+
+.homepage .im-always-looking-f {
+  color: var(--white);
+  font-family: var(--font-family-satoshi-regular);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 15px;
+  min-height: 46px;
+  width: 401px;
+}
+
+.homepage .lukeniccolhotmailcom {
+  color: var(--white);
+  font-family: var(--font-family-satoshi-bold);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 17px;
+  min-height: 21px;
+  width: 401px;
+}
+
+.homepage .group-20 {
+  cursor: pointer;
+  height: 264px;
+  left: 665px;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  transform: translate(0, 25px);
+  width: 467px;
+}
+
+.homepage .group-20.animate-enter7 {
+  animation: animate-enter7-frames 1.20s ease-in 0.80s 1 normal forwards;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter7-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.homepage .group-28 {
+  align-items: flex-start;
+  background-image: url(../img/mask-group-5@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  display: flex;
+  height: 264px;
+  min-width: 467px;
+  padding: 16px 24px;
+  transition: all 0.2s ease;
+}
+
+.homepage .group-28:hover {
+  transform: translate(0, -5px);
+}
+
+.homepage .overlap-group-4 {
+  height: 74px;
+  position: relative;
+  width: 254px;
+}
+
+.homepage .office-of-climate-facts {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 254px;
+}
+
+.homepage .motion-title-sequence {
+  color: #bebebe;
+  font-family: var(--font-family-satoshi-regular);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 35px;
+  width: 195px;
+}
+
+.homepage .group-19 {
+  cursor: pointer;
+  height: 357px;
+  left: 178px;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  transform: translate(0, 25px);
+  width: 467px;
+}
+
+.homepage .group-19.animate-enter6 {
+  animation: animate-enter6-frames 1.20s ease-in 0.80s 1 normal forwards;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter6-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.homepage .group-27 {
+  align-items: flex-start;
+  background-image: url(../img/mask-group-4@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  display: flex;
+  height: 357px;
+  min-width: 467px;
+  padding: 13px 19px;
+  transition: all 0.2s ease;
+}
+
+.homepage .group-27:hover {
+  transform: translate(0, -5px);
+}
+
+.homepage .overlap-group-5 {
+  height: 74px;
+  position: relative;
+  width: 207px;
+}
+
+.homepage .cracked-magazine {
+  color: var(--tundora);
+  font-family: var(--font-family-satoshi-regular);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 207px;
+}
+
+.homepage .ln-creative-1 {
+  height: 95px;
+  margin-top: 356px;
+  object-fit: cover;
+  width: 95px;
+}
+
+.homepage .place-2 {
+  font-family: var(--font-family-satoshi-medium);
+  font-size: 64px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  transform: rotate(-90.00deg);
+  white-space: nowrap;
+}
+
+.homepage .rectangle {
+  position: absolute;
+  top: 0;
+}

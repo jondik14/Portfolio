@@ -1,0 +1,191 @@
+/* screen - ash-barty */
+
+.ash-barty {
+  align-items: center;
+  background-color: var(--ceramic);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 3932px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.ash-barty .overlap-group2 {
+  align-self: flex-start;
+  height: 1836px;
+  margin-left: -35px;
+  position: relative;
+  width: 1475px;
+}
+
+.ash-barty .overlap-group1 {
+  height: 1737px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1475px;
+}
+
+.ash-barty .mask-group {
+  height: 658px;
+  left: 35px;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.ash-barty .rectangle-9 {
+  background: radial-gradient(50% 50% at 50% 50%, rgba(255, 255, 255, 0) 0%, rgba(0, 0, 0, 0.3) 100%);
+}
+
+.ash-barty .ln-creative-white-1 {
+  background-image: url(../img/ln-creative-white-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  height: 102px;
+  left: 55px;
+  position: absolute;
+  top: 20px;
+  width: 102px;
+}
+
+.ash-barty .group-10 {
+  flex-direction: column;
+  gap: 1px;
+  left: 278px;
+  min-height: 206px;
+  position: absolute;
+  top: 318px;
+  width: 616px;
+}
+
+.ash-barty .title {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 96px;
+  width: 612px;
+}
+
+.ash-barty .during-my-time-worki {
+  letter-spacing: 0;
+  line-height: 22.5px;
+  margin-left: 1px;
+  min-height: 109px;
+  width: 466px;
+}
+
+.ash-barty .this-or-that-photo-1 {
+  height: 704px;
+  left: 278px;
+  position: absolute;
+  top: 593px;
+  width: 710px;
+}
+
+.ash-barty .ash-barty-photo-1 {
+  height: 586px;
+  left: 765px;
+  position: absolute;
+  top: 1151px;
+  width: 588px;
+}
+
+.ash-barty .back-button {
+  align-items: center;
+  border-radius: 25px;
+  cursor: pointer;
+  display: flex;
+  height: 58px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 137px;
+  padding: 0 12px;
+  position: absolute;
+  top: 326px;
+}
+
+.ash-barty .working-on-this-proj {
+  left: 278px;
+  letter-spacing: 0.80px;
+  line-height: normal;
+  position: absolute;
+  top: 1484px;
+  width: 467px;
+}
+
+.ash-barty .creative-empowerment {
+  color: var(--tundora);
+  font-weight: 400;
+  left: 278px;
+  line-height: normal;
+  position: absolute;
+  top: 1358px;
+  width: 467px;
+}
+
+.ash-barty .reading-1 {
+  margin-top: 81px;
+}
+
+.ash-barty .reading-2 {
+  margin-top: 100px;
+}
+
+.ash-barty .reflection {
+  color: var(--tundora);
+  font-weight: 400;
+  line-height: normal;
+  margin-right: 369.0px;
+  margin-top: 99px;
+  min-height: 60px;
+  width: 341px;
+}
+
+.ash-barty .overall-this-project {
+  letter-spacing: 0.80px;
+  line-height: normal;
+  margin-right: 122.0px;
+  margin-top: 8px;
+  min-height: 175px;
+  width: 588px;
+}
+
+.ash-barty .group-13 {
+  align-self: flex-start;
+  cursor: pointer;
+  margin-top: 41px;
+  min-width: 345px;
+}
+
+.ash-barty .overlap-group {
+  height: 100px;
+  margin-top: -1px;
+  position: relative;
+  width: 345px;
+}
+
+.ash-barty .projects {
+  left: 46px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 299px;
+}
+
+.ash-barty .reading {
+  height: 708px;
+  margin-left: 1.0px;
+  width: 711px;
+}
+
+.ash-barty .rectangle {
+  height: 658px;
+  left: 35px;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}

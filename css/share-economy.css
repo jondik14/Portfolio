@@ -1,0 +1,391 @@
+/* screen - share-economy */
+
+.share-economy {
+  align-items: flex-start;
+  background-color: var(--ceramic);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 7243px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.share-economy .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: -35px;
+  min-height: 5491px;
+  width: 1475px;
+}
+
+.share-economy .overlap-group-container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 52px;
+  min-height: 2451px;
+  width: 1475px;
+}
+
+.share-economy .overlap-group2 {
+  height: 1791px;
+  position: relative;
+  width: 1475px;
+}
+
+.share-economy .rectangle-10 {
+  background-color: var(--black);
+}
+
+.share-economy .mina-share-economy-1 {
+  height: 660px;
+  left: 35px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.share-economy .rectangle-9 {
+  background: radial-gradient(50% 50% at 50% 50%, rgba(255, 255, 255, 0) 0%, rgba(0, 0, 0, 0.4) 100%);
+}
+
+.share-economy .ln-creative-white-1 {
+  cursor: pointer;
+  height: 102px;
+  left: 55px;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 102px;
+}
+
+.share-economy .mask-group {
+  height: 753px;
+  left: 275px;
+  position: absolute;
+  top: 592px;
+  width: 717px;
+}
+
+.share-economy .title {
+  left: 279px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 316px;
+  width: 467px;
+}
+
+.share-economy .in-a-group-project-f {
+  left: 280px;
+  letter-spacing: 0;
+  line-height: 22.5px;
+  position: absolute;
+  top: 413px;
+  width: 466px;
+}
+
+.share-economy .i-phone-13-pro-1 {
+  height: 708px;
+  left: 502px;
+  object-fit: cover;
+  position: absolute;
+  top: 965px;
+  width: 973px;
+}
+
+.share-economy .the-original-design {
+  left: 279px;
+  letter-spacing: 0.80px;
+  line-height: normal;
+  position: absolute;
+  top: 1521px;
+  width: 466px;
+}
+
+.share-economy .revamping-the-user-experience {
+  color: var(--tundora);
+  font-weight: 400;
+  left: 279px;
+  line-height: normal;
+  position: absolute;
+  top: 1385px;
+  width: 466px;
+}
+
+.share-economy .back-button {
+  align-items: center;
+  border-radius: 25px;
+  cursor: pointer;
+  display: flex;
+  height: 58px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 137px;
+  padding: 0 12px;
+  position: absolute;
+  top: 325px;
+}
+
+.share-economy .survey-container {
+  height: 608px;
+  margin-left: 156.0px;
+  position: relative;
+  width: 1073px;
+}
+
+.share-economy .survey-data-1 {
+  height: 423px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 185px;
+  width: 584px;
+}
+
+.share-economy .survey-comments {
+  height: 335px;
+  left: 485px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 588px;
+}
+
+.share-economy .flex-row {
+  align-items: flex-start;
+  display: flex;
+  gap: 20px;
+  height: 457px;
+  margin-left: 35.0px;
+  margin-top: 120px;
+  min-width: 1196px;
+}
+
+.share-economy .flex-col-1 {
+  gap: 33px;
+  min-height: 405px;
+  width: 466px;
+}
+
+.share-economy .unleashing-user-engagement {
+  color: var(--tundora);
+  font-weight: 400;
+  line-height: normal;
+  min-height: 106px;
+  width: 466px;
+}
+
+.share-economy .through-our-testing {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 266px;
+  width: 466px;
+}
+
+.share-economy .figma-process {
+  align-self: flex-end;
+  height: 442px;
+  object-fit: cover;
+  width: 710px;
+}
+
+.share-economy .flex-col-2 {
+  margin-left: 35.0px;
+  margin-top: 100px;
+  min-height: 2363px;
+  width: 1196px;
+}
+
+.share-economy .colour-pallete {
+  align-self: center;
+  height: 269px;
+  object-fit: cover;
+  width: 954px;
+}
+
+.share-economy .flex-row-1 {
+  align-items: center;
+  display: flex;
+  gap: 20px;
+  height: 826px;
+  margin-top: 115px;
+  min-width: 1196px;
+}
+
+.share-economy .group-11 {
+  flex-direction: column;
+  gap: 65px;
+  min-height: 826px;
+  width: 588px;
+}
+
+.share-economy .sign-up-2-payment-amount {
+  height: 381px;
+  object-fit: cover;
+  width: 588px;
+}
+
+.share-economy .sign-up-2-name {
+  height: 380px;
+  object-fit: cover;
+  width: 588px;
+}
+
+.share-economy .the-share-economy-gallery-5 {
+  height: 711px;
+  margin-top: 1.0px;
+  object-fit: cover;
+  width: 588px;
+}
+
+.share-economy .mina-share-economy-2 {
+  height: 437px;
+  margin-top: 123px;
+  width: 711px;
+}
+
+.share-economy .mina-share-economy-5 {
+  align-self: flex-end;
+  height: 511px;
+  margin-top: 82px;
+  width: 831px;
+}
+
+.share-economy .flex-row-2 {
+  align-items: flex-end;
+  align-self: center;
+  display: flex;
+  gap: 17px;
+  margin-right: 4.0px;
+  margin-top: 85px;
+  min-width: 1192px;
+}
+
+.share-economy .mina-share-economy-6 {
+  height: 510px;
+  width: 830px;
+}
+
+.share-economy .flex-col-3 {
+  gap: 7px;
+  margin-bottom: 42px;
+  min-height: 200px;
+  width: 345px;
+}
+
+.share-economy .reflection {
+  color: var(--tundora);
+  font-weight: 400;
+  line-height: normal;
+  margin-left: 4px;
+  min-height: 60px;
+  text-align: right;
+  width: 341px;
+}
+
+.share-economy .overall-this-projec {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 133px;
+  text-align: right;
+  width: 345px;
+}
+
+.share-economy .group-container {
+  flex-direction: column;
+  gap: 9px;
+  margin-top: 102px;
+  min-height: 1038px;
+  width: 1318px;
+}
+
+.share-economy .overlap-group4 {
+  align-self: flex-end;
+  height: 929px;
+  position: relative;
+  width: 1250px;
+}
+
+.share-economy .overlap-group3 {
+  height: 869px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1250px;
+}
+
+.share-economy .iphone-bigger {
+  height: 443px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 426px;
+  width: 574px;
+}
+
+.share-economy .image-3 {
+  height: 473px;
+  left: 541px;
+  width: 709px;
+}
+
+.share-economy .mockup2 {
+  height: 442px;
+  left: 602px;
+  object-fit: cover;
+  position: absolute;
+  top: 487px;
+  width: 588px;
+}
+
+.share-economy .image-4 {
+  height: 311px;
+  left: 54px;
+  width: 466px;
+}
+
+.share-economy .group-13 {
+  cursor: pointer;
+  min-width: 345px;
+}
+
+.share-economy .overlap-group {
+  height: 100px;
+  margin-top: -1px;
+  position: relative;
+  width: 345px;
+}
+
+.share-economy .projects {
+  left: 46px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 299px;
+}
+
+.share-economy .flex-col-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+}
+
+.share-economy .image {
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+}
+
+.share-economy .rectangle {
+  height: 660px;
+  left: 35px;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}

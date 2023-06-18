@@ -1,0 +1,83 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+/* The following line is used to measure usage of this code. You can remove it if you want. */
+@import url("https://px.animaapp.com/5d43a9d6597fe7257d144732.5ea7dfc32601000d3fac268d.iUJ3NwQ.hcp.png");
+
+@font-face {
+  font-family: "Athelas-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/Athelas-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Satoshi-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/Satoshi-Regular.otf") format("opentype");
+}
+@font-face {
+  font-family: "Satoshi-Medium";
+  font-style: normal;
+  font-weight: 500;
+  src: url("../fonts/Satoshi-Medium.woff") format("woff");
+}
+@font-face {
+  font-family: "Satoshi-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/Satoshi-Bold.otf") format("opentype");
+}
+@font-face {
+  font-family: "Athelas-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/Athelas-Bold.ttf") format("truetype");
+}
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+.align-self-flex-start {
+  align-self: flex-start;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.rectangle-11 {
+  background-color: var(--black);
+}
+
+.chevron-right {
+  height: 48px;
+  width: 48px;
+}
+
+.chevron-left {
+  height: 69px;
+  left: 0;
+  position: absolute;
+  top: 12px;
+  width: 79px;
+}
+
+.group {
+  align-items: flex-start;
+  display: flex;
+}

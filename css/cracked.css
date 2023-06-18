@@ -1,0 +1,228 @@
+/* screen - cracked */
+
+.cracked {
+  align-items: flex-start;
+  background-color: var(--ceramic);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 109px;
+  height: 4660px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.cracked .overlap-group2 {
+  height: 1632px;
+  margin-left: -35px;
+  position: relative;
+  width: 1475px;
+}
+
+.cracked .overlap-group1 {
+  height: 1632px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1475px;
+}
+
+.cracked .mockup-1-2 {
+  height: 658px;
+  left: 35px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.cracked .rectangle-9 {
+  background: radial-gradient(50% 50% at 50% 50%, rgba(255, 255, 255, 0) 0%, rgba(0, 0, 0, 0.2) 100%);
+}
+
+.cracked .ln-creative-white-1 {
+  cursor: pointer;
+  height: 102px;
+  left: 55px;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 102px;
+}
+
+.cracked .group-10 {
+  flex-direction: column;
+  gap: 1px;
+  left: 278px;
+  min-height: 206px;
+  position: absolute;
+  top: 318px;
+  width: 593px;
+}
+
+.cracked .title {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 96px;
+  width: 589px;
+}
+
+.cracked .in-this-project-the {
+  letter-spacing: 0;
+  line-height: 22.5px;
+  margin-left: 1px;
+  min-height: 109px;
+  width: 466px;
+}
+
+.cracked .mask-group {
+  height: 555px;
+  left: 278px;
+  position: absolute;
+  top: 591px;
+  width: 832px;
+}
+
+.cracked .thumbnail {
+  height: 647px;
+  left: 887px;
+  object-fit: cover;
+  position: absolute;
+  top: 985px;
+  width: 466px;
+}
+
+.cracked .back-button {
+  align-items: center;
+  border-radius: 25px;
+  cursor: pointer;
+  display: flex;
+  height: 58px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 137px;
+  padding: 0 12px;
+  position: absolute;
+  top: 325px;
+}
+
+.cracked .this-was-an-exciting {
+  left: 279px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1273px;
+  width: 467px;
+}
+
+.cracked .developing-my-style {
+  color: var(--tundora);
+  font-weight: 400;
+  left: 279px;
+  line-height: normal;
+  position: absolute;
+  top: 1196px;
+  width: 467px;
+}
+
+.cracked .flex-row {
+  align-items: flex-start;
+  display: flex;
+  gap: 19px;
+  height: 2907px;
+  min-width: 1319px;
+}
+
+.cracked .flex-col {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 2907px;
+  width: 833px;
+}
+
+.cracked .x2we {
+  height: 772px;
+  object-fit: cover;
+  width: 710px;
+}
+
+.cracked .x2qr {
+  height: 744px;
+  margin-right: 1px;
+  margin-top: 71px;
+  object-fit: cover;
+  width: 710px;
+}
+
+.cracked .thumbnail-1 {
+  height: 986px;
+  margin-right: 1px;
+  margin-top: 55px;
+  object-fit: cover;
+  width: 710px;
+}
+
+.cracked .group-13 {
+  align-self: flex-start;
+  cursor: pointer;
+  margin-top: 179px;
+  min-width: 345px;
+}
+
+.cracked .overlap-group {
+  height: 100px;
+  margin-top: -1px;
+  position: relative;
+  width: 345px;
+}
+
+.cracked .projects {
+  left: 46px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 299px;
+}
+
+.cracked .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 354px;
+  min-height: 1481px;
+  width: 467px;
+}
+
+.cracked .pxl_20211108_043211425-1 {
+  height: 623px;
+  object-fit: cover;
+  width: 467px;
+}
+
+.cracked .exploring-ar {
+  color: var(--tundora);
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 493px;
+  min-height: 76px;
+  width: 467px;
+}
+
+.cracked .one-of-the-highlight {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 1px;
+  min-height: 288px;
+  width: 467px;
+}
+
+.cracked .rectangle {
+  height: 658px;
+  left: 35px;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}

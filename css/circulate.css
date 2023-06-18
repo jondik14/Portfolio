@@ -1,0 +1,345 @@
+/* screen - circulate */
+
+.circulate {
+  align-items: flex-start;
+  background-color: var(--ceramic);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 6061px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.circulate .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 53px;
+  margin-left: -35px;
+  min-height: 2480px;
+  width: 1475px;
+}
+
+.circulate .overlap-group-container {
+  height: 1812px;
+  position: relative;
+  width: 1475px;
+}
+
+.circulate .overlap-group1 {
+  height: 1499px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1475px;
+}
+
+.circulate .rectangle-10 {
+  background-color: #292929;
+}
+
+.circulate .rectangle-9 {
+  background: radial-gradient(50% 50% at 50% 50%, rgba(255, 255, 255, 0) 0%, rgba(0, 0, 0, 0.4) 100%);
+}
+
+.circulate .iphone-3-hero-shot-2 {
+  height: 658px;
+  left: 189px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1072px;
+}
+
+.circulate .ln-creative-white-1 {
+  cursor: pointer;
+  height: 102px;
+  left: 55px;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 102px;
+}
+
+.circulate .title {
+  left: 276px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 317px;
+  width: 467px;
+}
+
+.circulate .the-objective-of-my {
+  left: 277px;
+  letter-spacing: 0;
+  line-height: 22.5px;
+  position: absolute;
+  top: 414px;
+  width: 466px;
+}
+
+.circulate .mask-group {
+  height: 803px;
+  left: 278px;
+  position: absolute;
+  top: 593px;
+  width: 710px;
+}
+
+.circulate .mask-group-1 {
+  height: 458px;
+  left: 765px;
+  position: absolute;
+  top: 1041px;
+  width: 589px;
+}
+
+.circulate .back-button {
+  align-items: center;
+  border-radius: 25px;
+  cursor: pointer;
+  display: flex;
+  height: 58px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 137px;
+  padding: 0 12px;
+  position: absolute;
+  top: 328px;
+}
+
+.circulate .ing-container {
+  height: 351px;
+  left: 278px;
+  position: absolute;
+  top: 1461px;
+  width: 467px;
+}
+
+.circulate .using-images-from-th {
+  left: 0;
+  letter-spacing: 0.80px;
+  line-height: normal;
+  position: absolute;
+  top: 69px;
+  width: 467px;
+}
+
+.circulate .rediscovering-sydney {
+  color: var(--tundora);
+  font-weight: 400;
+  left: 0;
+  line-height: 22.5px;
+  position: absolute;
+  top: 0;
+  width: 467px;
+}
+
+.circulate .outlines-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 21px;
+  height: 615px;
+  margin-left: 40.0px;
+  min-width: 1189px;
+}
+
+.circulate .outlines-features-black {
+  align-self: flex-end;
+  height: 408px;
+  object-fit: cover;
+  width: 582px;
+}
+
+.circulate .outlines-journey-black {
+  height: 411px;
+  object-fit: cover;
+  width: 586px;
+}
+
+.circulate .flex-row {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  gap: 20px;
+  height: 484px;
+  margin-left: 2.0px;
+  margin-top: 36px;
+  min-width: 1198px;
+}
+
+.circulate .design-container {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 36px;
+  min-height: 423px;
+  width: 466px;
+}
+
+.circulate .designing-engagement {
+  color: var(--tundora);
+  font-family: var(--font-family-athelas-regular);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  letter-spacing: 2.40px;
+  line-height: normal;
+  min-height: 105px;
+  width: 466px;
+}
+
+.circulate .i-chose-to-design-th {
+  color: var(--black);
+  font-family: var(--font-family-satoshi-regular);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  letter-spacing: 0.80px;
+  line-height: normal;
+  min-height: 282px;
+  width: 466px;
+}
+
+.circulate .vis-inspo-circulate {
+  height: 454px;
+  object-fit: cover;
+  width: 712px;
+}
+
+.circulate .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 71px;
+  min-height: 2972px;
+  width: 1318px;
+}
+
+.circulate .overlap-group6 {
+  align-self: flex-end;
+  height: 1754px;
+  margin-right: 2px;
+  position: relative;
+  width: 1194px;
+}
+
+.circulate .overlap-group2 {
+  height: 982px;
+  left: 4px;
+  position: absolute;
+  top: 716px;
+  width: 1190px;
+}
+
+.circulate .mask-group-2 {
+  height: 394px;
+  left: 602px;
+  position: absolute;
+  top: 588px;
+  width: 588px;
+}
+
+.circulate .x3-phones-map-discover {
+  height: 532px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 349px;
+  width: 710px;
+}
+
+.circulate .x600-m-hand {
+  height: 416px;
+  left: 604px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 586px;
+}
+
+.circulate .overlap-group4 {
+  height: 978px;
+  left: 4px;
+  position: absolute;
+  top: 0;
+  width: 1190px;
+}
+
+.circulate .wide-progress-shot {
+  height: 586px;
+  left: 239px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 951px;
+}
+
+.circulate .scene-1-1-_-glossy-_-sample {
+  height: 581px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 397px;
+  width: 584px;
+}
+
+.circulate .reflection {
+  color: var(--tundora);
+  font-weight: 400;
+  left: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1694px;
+  width: 341px;
+}
+
+.circulate .the-final-product-wa {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 122px;
+  margin-top: 39px;
+  min-height: 227px;
+  width: 462px;
+}
+
+.circulate .image-2 {
+  align-self: flex-end;
+  height: 673px;
+  margin-top: 88px;
+  width: 1196px;
+}
+
+.circulate .group-13 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-top: 91px;
+  min-width: 345px;
+}
+
+.circulate .overlap-group {
+  height: 100px;
+  margin-top: -1px;
+  position: relative;
+  width: 345px;
+}
+
+.circulate .projects {
+  left: 46px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 299px;
+}
+
+.circulate .rectangle {
+  height: 657px;
+  left: 35px;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}

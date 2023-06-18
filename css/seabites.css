@@ -1,0 +1,363 @@
+/* screen - seabites */
+
+.seabites {
+  align-items: flex-start;
+  background-color: var(--ceramic);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 61px;
+  height: 5370px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.seabites .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: -35px;
+  min-height: 4229px;
+  width: 1475px;
+}
+
+.seabites .flex-col-1 {
+  align-items: center;
+  gap: 41px;
+  min-height: 2693px;
+  width: 1475px;
+}
+
+.seabites .overlap-group4 {
+  height: 2293px;
+  position: relative;
+  width: 1475px;
+}
+
+.seabites .overlap-group {
+  height: 2047px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1475px;
+}
+
+.seabites .overlap-group1 {
+  height: 1509px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1475px;
+}
+
+.seabites .mask-group {
+  height: 658px;
+  left: 35px;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.seabites .rectangle-9 {
+  background: radial-gradient(50% 50% at 50% 50%, rgba(255, 255, 255, 0) 0%, rgba(0, 0, 0, 0.2) 100%);
+}
+
+.seabites .ln-creative-white-1 {
+  cursor: pointer;
+  height: 102px;
+  left: 55px;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 102px;
+}
+
+.seabites .group-10 {
+  flex-direction: column;
+  gap: 1px;
+  left: 278px;
+  min-height: 206px;
+  position: absolute;
+  top: 317px;
+  width: 471px;
+}
+
+.seabites .title {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 96px;
+  width: 467px;
+}
+
+.seabites .sea-bites-was-a-proj {
+  letter-spacing: 0;
+  line-height: 22.5px;
+  margin-left: 1px;
+  min-height: 109px;
+  width: 466px;
+}
+
+.seabites .seabites-photdhop-1 {
+  height: 560px;
+  left: 276px;
+  object-fit: cover;
+  position: absolute;
+  top: 591px;
+  width: 834px;
+}
+
+.seabites .image-10-1 {
+  height: 404px;
+  left: 765px;
+  position: absolute;
+  top: 1105px;
+  width: 612px;
+}
+
+.seabites .back-button {
+  align-items: center;
+  border-radius: 25px;
+  cursor: pointer;
+  display: flex;
+  height: 58px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 137px;
+  padding: 0 12px;
+  position: absolute;
+  top: 325px;
+}
+
+.seabites .overlap-group3 {
+  height: 738px;
+  left: 279px;
+  position: absolute;
+  top: 1309px;
+  width: 467px;
+}
+
+.seabites .image-7-1 {
+  height: 454px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 284px;
+  width: 460px;
+}
+
+.seabites .using-the-double-dia {
+  left: 0;
+  letter-spacing: 0.80px;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 467px;
+}
+
+.seabites .understanding-the-problem {
+  color: var(--tundora);
+  font-weight: 400;
+  left: 279px;
+  line-height: normal;
+  position: absolute;
+  top: 1183px;
+  width: 467px;
+}
+
+.seabites .user-empathy-and-personas-1 {
+  height: 601px;
+  left: 765px;
+  position: absolute;
+  top: 1692px;
+  width: 588px;
+}
+
+.seabites .image-9-1 {
+  height: 359px;
+  margin-right: 86.0px;
+  object-fit: cover;
+  width: 831px;
+}
+
+.seabites .flex-row {
+  align-items: flex-start;
+  display: flex;
+  gap: 21px;
+  height: 425px;
+  margin-left: 36.0px;
+  margin-top: 91px;
+  min-width: 1197px;
+}
+
+.seabites .new-ps-1 {
+  height: 308px;
+  margin-top: 17px;
+  width: 709px;
+}
+
+.seabites .flex-col-2 {
+  align-items: flex-start;
+  gap: 55px;
+  min-height: 425px;
+  width: 467px;
+}
+
+.seabites .designing-ocean-engagement {
+  color: var(--tundora);
+  font-weight: 400;
+  line-height: normal;
+  min-height: 76px;
+  width: 467px;
+}
+
+.seabites .i-particularly-enjoy {
+  color: var(--black);
+  font-family: var(--font-family-satoshi-regular);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  letter-spacing: 0.80px;
+  line-height: normal;
+  min-height: 294px;
+  width: 466px;
+}
+
+.seabites .image-container {
+  height: 664px;
+  margin-left: 34.0px;
+  margin-top: 31px;
+  position: relative;
+  width: 1195px;
+}
+
+.seabites .image-14-1 {
+  height: 465px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 831px;
+}
+
+.seabites .image-11-1 {
+  height: 399px;
+  left: 485px;
+  object-fit: cover;
+  position: absolute;
+  top: 265px;
+  width: 710px;
+}
+
+.seabites .concept-development {
+  align-self: flex-start;
+  color: var(--tundora);
+  font-weight: 400;
+  line-height: normal;
+  margin-left: 157px;
+  margin-top: 119px;
+  min-height: 76px;
+  width: 467px;
+}
+
+.seabites .flex-row-1 {
+  align-items: center;
+  display: flex;
+  gap: 142px;
+  height: 130px;
+  margin-right: 87.0px;
+  min-width: 1076px;
+}
+
+.seabites .the-seabites-concept {
+  letter-spacing: 0.80px;
+  line-height: normal;
+  min-height: 130px;
+  width: 467px;
+}
+
+.seabites .layer_1 {
+  height: 66px;
+  margin-top: 2.0px;
+  width: 467px;
+}
+
+.seabites .flex-row-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 19px;
+  height: 1069px;
+  min-width: 1318px;
+}
+
+.seabites .flex-col-3 {
+  align-items: center;
+  min-height: 1069px;
+  width: 711px;
+}
+
+.seabites .food-box-mockup {
+  align-self: flex-end;
+  height: 409px;
+  object-fit: cover;
+  width: 589px;
+}
+
+.seabites .reflection {
+  color: var(--tundora);
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 96px;
+  min-height: 76px;
+  width: 467px;
+}
+
+.seabites .this-project-allowed {
+  letter-spacing: 0.80px;
+  line-height: normal;
+  margin-right: 2.0px;
+  min-height: 202px;
+  width: 467px;
+}
+
+.seabites .group-13 {
+  align-self: flex-start;
+  cursor: pointer;
+  margin-top: 186px;
+  min-width: 345px;
+}
+
+.seabites .overlap-group-1 {
+  height: 100px;
+  margin-top: -1px;
+  position: relative;
+  width: 345px;
+}
+
+.seabites .projects {
+  left: 46px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 299px;
+}
+
+.seabites .lunch_-box_08 {
+  height: 440px;
+  margin-top: 114px;
+  object-fit: cover;
+  width: 588px;
+}
+
+.seabites .flex-col-4 {
+  display: flex;
+  flex-direction: column;
+}
+
+.seabites .rectangle {
+  height: 658px;
+  left: 35px;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
