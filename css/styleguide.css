@@ -16,14 +16,14 @@
   --font-size-xxl: 48px;
   --font-size-xxs: 12px;
  
-  --font-family-athelas-bold: "Athelas-Bold", Helvetica;
-  --font-family-athelas-regular: "Athelas-Regular", Helvetica;
+  --font-family-athelas-bold: "Spectral-Bold", Helvetica;
+  --font-family-athelas-regular: "Spectral-Regular", Helvetica;
   --font-family-satoshi-bold: "Satoshi-Bold", Helvetica;
   --font-family-satoshi-medium: "Satoshi-Medium", Helvetica;
   --font-family-satoshi-regular: "Satoshi-Regular", Helvetica;
 }
 .subtitles {
-  font-family: var(--font-family-athelas-regular);
+  font-family: var(--font-family-spectral-regular);
   font-size: var(--font-size-xxl);
   font-style: normal;
   font-weight: 400;
@@ -40,7 +40,7 @@
 
 .athelas-regular-normal-white-70px {
   color: var(--white);
-  font-family: var(--font-family-athelas-regular);
+  font-family: var(--font-family-spectral-regular);
   font-size: 70px;
   font-style: normal;
   font-weight: 400;
