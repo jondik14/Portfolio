@@ -1,4 +1,20 @@
 :root { 
+
+  @font-face {
+  font-family: 'Spectral-Bold';
+  src: url('Portfolio/fonts/Spectral-Bold.ttf') format('truetype');
+  font-weight: bold;
+  /* Add more font properties if needed */
+}
+
+/* Define @font-face rule for Spectral-Regular */
+@font-face {
+  font-family: 'Spectral-Regular';
+  src: url('Portfolio/fonts/Spectral-Regular.ttf') format('truetype');
+  font-weight: normal;
+  /* Add more font properties if needed */
+}
+  
   --black: #000000;
   --ceramic: #fcfcfc;
   --chicago: #5f5f5f;
